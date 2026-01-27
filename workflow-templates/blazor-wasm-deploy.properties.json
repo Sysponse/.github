@@ -1,0 +1,16 @@
+{
+  "name": "Blazor WASM Build and Deploy Workflow",
+  "description": "Build, test, and deploy Blazor WebAssembly applications to Azure Static Web Apps with Lighthouse performance testing",
+  "iconName": "azure",
+  "categories": [
+    "Blazor",
+    ".NET",
+    "WebAssembly",
+    "Azure",
+    "Deployment"
+  ],
+  "filePatterns": [
+    ".*\\.razor$",
+    "wwwroot/"
+  ]
+}

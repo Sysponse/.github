@@ -1,0 +1,15 @@
+{
+  "name": "Azure Functions Deploy Workflow",
+  "description": "Build, test, and deploy .NET Azure Functions to Azure with rollback support",
+  "iconName": "azure",
+  "categories": [
+    "Azure",
+    "Functions",
+    ".NET",
+    "Deployment"
+  ],
+  "filePatterns": [
+    "host.json",
+    "local.settings.json"
+  ]
+}

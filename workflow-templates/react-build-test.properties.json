@@ -1,0 +1,16 @@
+{
+  "name": "React TypeScript Build and Test Workflow",
+  "description": "Build, test, and analyze React/TypeScript applications with linting and bundle analysis",
+  "iconName": "react",
+  "categories": [
+    "React",
+    "TypeScript",
+    "JavaScript",
+    "CI",
+    "Testing"
+  ],
+  "filePatterns": [
+    "package.json",
+    ".*\\.tsx?$"
+  ]
+}

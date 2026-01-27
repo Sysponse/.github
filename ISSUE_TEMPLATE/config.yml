@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📚 Documentation
+    url: https://github.com/Sysponse/.github/blob/main/SUPPORT.md
+    about: Check our support documentation for common questions and resources
+  - name: 🔒 Security Issue
+    url: https://github.com/Sysponse/.github/blob/main/SECURITY.md
+    about: Please report security vulnerabilities privately per our Security Policy

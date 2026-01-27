@@ -1,0 +1,15 @@
+{
+  "name": ".NET Build and Test Workflow",
+  "description": "Build, test, and scan .NET applications with code coverage reporting",
+  "iconName": "dotnet",
+  "categories": [
+    ".NET",
+    "C#",
+    "CI",
+    "Testing"
+  ],
+  "filePatterns": [
+    ".*\\.csproj$",
+    ".*\\.sln$"
+  ]
+}
