@@ -12,7 +12,7 @@
 
 ## 🔗 Related Issues
 
-Closes #
+Closes # <!-- e.g., Closes #123 -->
 
 ## 🧪 Testing
 
